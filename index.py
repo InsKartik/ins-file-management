@@ -143,4 +143,3 @@ if __name__ == "__main__":
         print("Script Terminated")
         observer.stop()
     observer.join()
-# fina
